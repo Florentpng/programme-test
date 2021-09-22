@@ -1,2 +1,2 @@
 ## Programme Test ##
-Programme de test du language Python, contient un fichier Python
+Programme de test du language Python, contient un fichier Python.
